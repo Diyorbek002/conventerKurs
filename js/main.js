@@ -14,5 +14,4 @@ elForm.addEventListener("submit", function(event){
     var conventCourse = elInputVAl * elSelectVAl
 
 elSpan.textContent = (`${conventCourse}`)
-
 })

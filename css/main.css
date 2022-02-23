@@ -1,0 +1,40 @@
+.container{
+    width: 1320px;
+    padding: 0 80px;
+    margin: 0;
+}
+
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.header__input{
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+
+.header__select{
+    padding: 7px 20px;
+    border-radius: 20px;
+}
+
+.header__button{
+    background-color: grey;
+    color: #FFF;
+    margin-bottom: 20px;
+    padding: 7px 20px;
+    border-radius: 20px;
+    border: none;
+}
+
+.header__span{
+    width: 40%;
+    display: block;
+    border: 1px solid blue;
+    padding: 20px 20px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
